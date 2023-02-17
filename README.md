@@ -4,3 +4,5 @@ Repository for machine learning course at Loyola Marymount University made to ex
 - FIRST ASSIGNMENT: CA01 - Exploratory Data Analysis
 
 - SECOND ASSIGNMENT: CA02 - Spam detection program with Naives Bayes Classification Algorithm
+
+- THIRD ASSIGNMENT: CA03 - Decision Tree Algorithm
