@@ -1,5 +1,5 @@
 CA 04 - README
-Purpose: The purpose of this program, file CA 03, is to present 4 different types of decision classifiers on a census data set.
+Purpose: The purpose of this program, file CA 04, is to present 4 different types of decision classifiers on a census data set.
 The classifiers explored are Random Tree Classifier, ADA Boost Classifier, Gradient Boosting Classifier, and Extreme Gradient Boosting Classifier.
 
 The four classifiers are ran to compare accuracy and the AUC.
