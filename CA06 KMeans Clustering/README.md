@@ -1,10 +1,9 @@
-README.md - CA05
+README.md - CA06
 
 CA06 – KMeans Clustering
 Brief description of the purpose of your program and what it is doing:
 
-This program K means clustering assignment that clusters data comparing the spending score and income of buyers to understand the behavior 
-and spending habits of users.
+This program is a K means clustering assignment that clusters data comparing the spending score and income of buyers to understand the behavior and spending habits of users.
 Libraries are needed in the environment to be able to run the code
 numpy
 pandas
